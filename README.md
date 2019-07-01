@@ -27,13 +27,13 @@ To add a pin simply long press the location in the map you want to add the pin t
 
 * Tapping the pin will take you to a collection of photos related to the location you choosed before. If there is no photos for the choosen location,  a sentece saying **Pin has no photos** will be desplayed as the title of the collections. Or if you saw all the photos from that location, the sentece will be saying **No more photos**. Otherwise there will be no title for the page and photos will be presented.
 
-![Photo Collection](/Screenshot/Photo Collection.png)
+![Photo Collection](/Screenshot/PhotoCollection.png)
 
 * Tapping `< Back` button on the left corner of the page will take you back to the map. 
 * Tapping `New Collection` button on the center buttom of the page will display a new collection of photos. 
 * Tapping `Edit` on the top right corner will let you enter the _delete mode_. You will know that because you will see **Delete Mode** as the title of the page, the page color will change to dark gray color and instead of `Edit` you will see `Done`. In that mode when you select an image it will be emmidietly deleted. After you finish deleting unwanted photos, click `Done` to return to the normal mode.
 
-![Delete Mode](/Screenshot/Delete Mode.png)
+![Delete Mode](/Screenshot/DeleteMode.png)
 
 * In the normal mode selecting a photo will take you to a page showing only the selected photo in a bigger size, a `< Back`  button on the left corner that returns you to the photo collection page and an action button `⏍` on the top right corner of the page.
 
